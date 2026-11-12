@@ -1774,3 +1774,6 @@ https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Documentary;Science",NHK World Premium (720p)
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+
+#EXTINF:-1 tvg-id="SciFi.ru@HD" tvg-logo="https://i.imgur.com/8QKvL5m.png" group-title="Sci-Fi",Sci-Fi (1024x576)
+https://s1.merlive.am/Sci-Fi/index.m3u8
